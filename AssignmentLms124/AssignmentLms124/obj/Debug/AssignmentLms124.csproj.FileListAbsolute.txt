@@ -1,0 +1,7 @@
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\bin\Debug\AssignmentLms124.exe.config
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\bin\Debug\AssignmentLms124.exe
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\bin\Debug\AssignmentLms124.pdb
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\obj\Debug\AssignmentLms124.csprojAssemblyReference.cache
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\obj\Debug\AssignmentLms124.csproj.CoreCompileInputs.cache
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\obj\Debug\AssignmentLms124.exe
+C:\Users\ircho\source\repos\AssignmentLms124\AssignmentLms124\obj\Debug\AssignmentLms124.pdb

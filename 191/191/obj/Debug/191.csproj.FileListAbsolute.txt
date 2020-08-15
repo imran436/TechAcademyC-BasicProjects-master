@@ -1,0 +1,7 @@
+C:\Users\ircho\source\repos\191\191\bin\Debug\191.exe.config
+C:\Users\ircho\source\repos\191\191\bin\Debug\191.exe
+C:\Users\ircho\source\repos\191\191\bin\Debug\191.pdb
+C:\Users\ircho\source\repos\191\191\obj\Debug\191.csprojAssemblyReference.cache
+C:\Users\ircho\source\repos\191\191\obj\Debug\191.csproj.CoreCompileInputs.cache
+C:\Users\ircho\source\repos\191\191\obj\Debug\191.exe
+C:\Users\ircho\source\repos\191\191\obj\Debug\191.pdb

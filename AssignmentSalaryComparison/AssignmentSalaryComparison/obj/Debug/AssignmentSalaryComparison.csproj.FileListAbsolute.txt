@@ -1,0 +1,6 @@
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\bin\Debug\AssignmentSalaryComparison.exe.config
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\bin\Debug\AssignmentSalaryComparison.exe
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\bin\Debug\AssignmentSalaryComparison.pdb
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\obj\Debug\AssignmentSalaryComparison.csproj.CoreCompileInputs.cache
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\obj\Debug\AssignmentSalaryComparison.exe
+C:\Users\ircho\source\repos\AssignmentSalaryComparison\AssignmentSalaryComparison\obj\Debug\AssignmentSalaryComparison.pdb

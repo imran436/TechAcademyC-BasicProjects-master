@@ -1,0 +1,7 @@
+C:\Users\ircho\source\repos\LMS165\LMS165\obj\Debug\LMS165.csprojAssemblyReference.cache
+C:\Users\ircho\source\repos\LMS165\LMS165\obj\Debug\LMS165.csproj.CoreCompileInputs.cache
+C:\Users\ircho\source\repos\LMS165\LMS165\bin\Debug\LMS165.exe.config
+C:\Users\ircho\source\repos\LMS165\LMS165\bin\Debug\LMS165.exe
+C:\Users\ircho\source\repos\LMS165\LMS165\bin\Debug\LMS165.pdb
+C:\Users\ircho\source\repos\LMS165\LMS165\obj\Debug\LMS165.exe
+C:\Users\ircho\source\repos\LMS165\LMS165\obj\Debug\LMS165.pdb
